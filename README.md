@@ -12,3 +12,4 @@ In this repository, we have added the pipeline for the baseline models including
 5. final_project_lstm_sa-f1_included_keepstopwords_undersampling2-classweight.ipynb: This file contains the LSTM Type 7 model with undersampling based on class weights and a dropout layer.
 6. final_project_lstm_sa_bk.ipynb: This file contains the Type 1, 2, 3 ad 4 LSTM model trial attempts made in tbe beginning of the project. This is not a very clean code and most of the lines may have been commented out that were previosuly run as we were trying multiple variations. 
 7. MultiLayer_Perceptron: This includes a 3 layer NN model with GloVe embeddings
+8. final_project_sa: The file contains the data exploration work as well as the Naive Bayes model
