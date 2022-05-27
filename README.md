@@ -5,3 +5,8 @@ This project introduces various deep learning approaches applied to the task of 
 
 In this repository, we have added the pipeline for the baseline models including naive bayes a well as deep learning ones
 
+1. final_project_lstm_sa-f1_included.ipynb: This file contains the final versios of Type 1 and Type 3 LSTM models specified in the report 
+3. final_project_lstm_sa-f1_included_keepstopwords.ipynb: This file contains the final versions of Type 5 LSTM model specified in the report with stop words retained
+4. final_project_lstm_sa-f1_included_keepstopwords_undersampling.ipynb: This file contains the LSTM Type 6 model with undersampling based on sample (identity) weights and a dropout layer. 
+5. final_project_lstm_sa-f1_included_keepstopwords_undersampling2-classweight.ipynb: This file contains the LSTM Type 7 model with undersampling based on class weights and a dropout layer.
+6. final_project_lstm_sa_bk.ipynb: This file contains the Type 1, 2, 3 ad 4 LSTM model trial attempts made in tbe beginning of the project. This is not a very clean code and most of the lines may have been commented out that were previosuly run as we were trying multiple variations. 
